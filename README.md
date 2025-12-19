@@ -16,10 +16,12 @@ The outcome is a clear set of insights and practical recommendations that a used
 - Notebook contains a clear title, a table of contents (headings), step-by-step sections, and narrative text.
 
 ## Business Understanding
-The goal is to provide actionable insights for used car dealers:
-- Identify key drivers of car prices.
-- Optimize inventory pricing.
-- Make data-driven decisions for purchasing and selling vehicles.
+Understand which features have the biggest impact on selling price of used cars, so a used car dealership can price cars more accurately and highlight the attributes.
+
+Success means dealers can:
+- Set competitive prices faster and with more confidence.
+- Increase profit per car while staying attractive to buyers.
+- Use clear, data-backed insights (simple rules) in daily pricing decisions.
 
 ## Modeling Approach
 Multiple regression models are applied:
